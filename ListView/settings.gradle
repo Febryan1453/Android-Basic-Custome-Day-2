@@ -1,0 +1,3 @@
+include ':listbuah'
+include ':app'
+rootProject.name = "List View"
